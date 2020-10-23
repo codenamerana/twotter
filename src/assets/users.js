@@ -52,5 +52,23 @@ export const users =  [
                 content: "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure"
             }
         ]
+    },
+    {
+        id: 4,
+        username: 'wallou',
+        firstName: 'Walldev',
+        lastName: 'Arju',
+        email: 'walldev@gmail.com',
+        isAdmin: false,
+        twoots: [
+            {
+                id: 1,
+                content: "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born"
+            },
+            {
+                id: 2,
+                content: "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure"
+            }
+        ]
     }
 ];
